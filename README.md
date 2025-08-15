@@ -1,4 +1,4 @@
-# CS 415 - Operating Systems - Project 1 
+# (Shell Simulator) CS 415 - Operating Systems - Project 1 
 
 ## Description
 
